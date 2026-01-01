@@ -19,18 +19,3 @@ How It Works
   It also validates input:
     Password length must be at least 1
     At least one character set must be selected
-
-Usage
-  1. Clone or download this repository:
-    git clone <your-repo-link>
-
-  2. Open index.js in your browser console or run it in Node.js.
-
-  3. Adjust the options:
-    passwordLength → Length of the password
-    includeLowercase → true/false
-    includeUppercase → true/false
-    includeNumbers → true/false
-    includeSymbols → true/false
-
-  4. Run the script to generate a random password.
